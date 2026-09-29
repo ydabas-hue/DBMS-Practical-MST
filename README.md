@@ -14,6 +14,7 @@ This repository contains the practical examination / MST SQL submission for **Da
 | Field | Details |
 |---|---|
 | **Author** | Yashasvi Dabas |
+| **UID** | 25BAI70661 |
 | **Course** | Database Management Systems (DBMS) |
 | **Exam** | Practical MST Examination |
 | **Database System** | MySQL / Relational DBMS |
